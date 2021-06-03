@@ -1,0 +1,4 @@
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+MetabolicSim = "18f8df61-9062-4a1b-a3bc-52a90cb28c8d"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
